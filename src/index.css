@@ -1,4 +1,4 @@
-/* Existing styles remain unchanged */
+/* Add these styles at the end of the existing CSS file */
 
 .chat-container {
   display: flex;
@@ -19,6 +19,7 @@
   display: flex;
   flex-direction: column;
   height: 400px;
+  margin-top: 20px;
 }
 
 .messages {
